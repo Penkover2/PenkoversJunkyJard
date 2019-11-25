@@ -1,0 +1,26 @@
+p {
+    font-size: 24px;
+    margin-left: 10px;
+  }
+  h1 {
+    font-size: 72px;
+    color: darkred;
+    border: 3px solid black;
+  }
+  img{
+    max-width: 500px;
+    margin-left: -250px;
+    padding-left: 50%;
+  }
+  body{
+    background-image: url("Obrazky/background.png");
+    background-color: rgb(60, 156, 84);
+  }
+#nadpis{
+    width: 220px;
+    margin-left: -100px;
+    padding-left: 50%;
+  }
+  .huhnalek{
+    font-size: 1cm;
+  }
